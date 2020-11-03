@@ -1,0 +1,215 @@
+(\d+)\s+(.+?)\s+http://\S+?((:?journals|conf)/\S+?)/
+【\1】【\2】【\3】
+
+@@@
+
+数据库/数据挖掘/内容检索
+
+###
+
+A
+【1】【TODS ACM Transactions on Database Systems ACM】【journals/tods】
+【2】【TOIS ACM Transactions on Information Systems ACM】【journals/tois】
+【3】【TKDE IEEE Transactions on Knowledge and Data Engineering IEEE】【journals/tkde】
+【4】【VLDBJ VLDB Journal Springer】【journals/vldb】
+
+###
+
+B
+【1】【TKDD ACM Transactions on Knowledge Discovery from Data ACM】【journals/tkdd】
+【2】【AEI Advanced Engineering Informatics Elsevier】【journals/aei】
+【3】【DKE Data and Knowledge Engineering Elsevier】【journals/dke】
+【4】【DMKD Data Mining and Knowledge Discovery Springer】【journals/datamine】
+【5】【EJIS European Journal of Information Systems The OR Society】【journals/ejis】
+【6】【GeoInformatica Springer】【journals/geoinformatica】
+【7】【IPM Information Processing and Management Elsevier】【journals/ipm】
+【8】【Information Sciences Elsevier】【journals/isci】
+【9】【IS Information Systems Elsevier】【journals/is】
+【10】【JASIST Journal of the American Society for Information Science and Technology American Society for Information Science and Technology】【journals/jasis】
+【11】【JWS Journal of Web Semantics Elsevier】【journals/ws】
+【12】【KIS Knowledge and Information Systems Springer】【journals/kais】
+【13】【TWEB ACM Transactions on the Web ACM】【journals/tweb】
+
+###
+
+C
+【1】【DPD Distributed and Parallel Databases Springer】【journals/dpd】
+【2】【I&M Information and Management Elsevier】【journals/iam】
+【3】【IPL Information Processing Letters Elsevier】【journals/ipl】
+【4】【IR Information Retrieval Springer】【journals/ir】
+【5】【IJCIS International Journal of Cooperative Information Systems World Scientific】【journals/ijcis】
+【6】【IJGIS International Journal of Geographical Information Science Taylor & Francis】【journals/gis】
+【7】【IJIS International Journal of Intelligent Systems Wiley】【journals/ijis】
+【8】【IJKM International Journal of Knowledge Management IGI】【journals/ijkm】
+【9】【IJSWIS International Journal on Semantic Web and Information Systems IGI】【journals/ijswis】
+【10】【JCIS Journal of Computer Information Systems IACIS】【journals/jcis】
+【11】【JDM Journal of Database Management IGI-Global】【journals/jdm】
+【12】【JGITM Journal of Global Information Technology Management Ivy League Publishing】【http://www.tandfonline.com/loi/ugit20#.Vnv35pN97rI】
+【13】【JIIS Journal of Intelligent Information Systems Springer】【journals/jiis】
+【14】【JSIS Journal of Strategic Information Systems Elsevier】【journals/jsis】
+
+###
+
+A
+【1】【SIGMOD ACM Conference on Management of Data ACM】【conf/sigmod】
+【2】【SIGKDD ACM Knowledge Discovery and Data Mining ACM】【conf/kdd】
+【3】【SIGIR International Conference on Research on Development in Information Retrieval ACM】【conf/sigir】
+【4】【VLDB International Conference on Very Large Data Bases Morgan Kaufmann/ACM】【conf/vldb】
+【5】【ICDE IEEE International Conference on Data Engineering IEEE】【conf/icde】
+
+###
+
+B
+【1】【CIKM ACM International Conference on Information and Knowledge Management ACM】【conf/cikm】
+【2】【PODS ACM SIGMOD Conference on Principles of DB Systems ACM】【conf/pods】
+【3】【DASFAA Database Systems for Advanced Applications Springer】【conf/dasfaa】
+【4】【ECML-PKDD European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases Springer】【conf/ecml】
+【4】【ECML-PKDD European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases Springer】【conf/pkdd】
+【5】【ISWC IEEE International Semantic Web Conference IEEE】【conf/semweb】
+【6】【ICDM International Conference on Data Mining IEEE】【conf/icdm】
+【7】【ICDT International Conference on Database Theory Springer】【conf/icdt】
+【8】【EDBT International Conference on Extending DB Technology Springer】【conf/edbt】
+【9】【CIDR International Conference on Innovation Database Research Online Proceeding】【conf/cidr】
+【10】【SDM SIAM International Conference on Data Mining SIAM】【conf/sdm】
+【11】【WSDM ACM International Conference on Web Search and Data Mining ACM】【conf/wsdm】
+
+###
+
+C
+【1】【DEXA Database and Expert System Applications Springer】【conf/dexa】
+【2】【ECIR European Conference on IR Research Springer】【conf/ecir】
+【3】【WebDB International ACM Workshop on Web and Databases ACM】【conf/webdb】
+【4】【ER International Conference on Conceptual Modeling Springer】【conf/er】
+【5】【MDM International Conference on Mobile Data Management IEEE】【conf/mdm】
+【6】【SSDBM International Conference on Scientific and Statistical DB Management IEEE】【conf/ssdbm】
+【7】【WAIM International Conference on Web Age Information Management Springer】【conf/waim】
+【8】【SSTD International Symposium on Spatial and Temporal Databases Springer】【conf/ssd】
+【9】【PAKDD Pacific-Asia Conference on Knowledge Discovery and Data Mining Springer】【conf/pakdd】
+【10】【APWeb The Asia Pacific Web Conference Springer】【conf/apweb】
+【11】【WISE Web Information Systems Engineering Springer】【conf/wise】
+【12】【ESWC Extended Semantic Web Conference Elsevier】【conf/esws】
+
+@@@
+
+人工智能
+
+###
+
+A
+【1】【AI Artificial Intelligence Elsevier】【journals/ai】
+【2】【TPAMI IEEE Trans on Pattern Analysis and Machine Intelligence IEEE】【journals/pami】
+【3】【IJCV International Journal of Computer Vision Springer】【journals/ijcv】
+【4】【JMLR Journal of Machine Learning Research MIT Press】【journals/jmlr】
+
+###
+
+B
+【1】【TAP ACM Transactions on Applied Perception ACM】【journals/tap】
+【2】【TSLP ACM Transactions on Speech and Language Processing ACM】【journals/tslp】
+【3】【Computational Linguistics MIT Press】【journals/coling】
+【4】【CVIU Computer Vision and Image Understanding Elsevier】【journals/cviu】
+【5】【DKE Data and Knowledge Engineering Elsevier】【journals/dke】
+【6】【Evolutionary Computation MIT Press】【journals/ec】
+【7】【TAC IEEE Transactions on Affective Computing IEEE】【journals/taffco】
+【8】【TASLP IEEE Transactions on Audio, Speech, and Language Processing IEEE】【journals/taslp】
+【9】【IEEE Transactions on Cybernetics IEEE】【journals/tcyb】
+【10】【TEC IEEE Transactions on Evolutionary Computation IEEE】【journals/tec】
+【11】【TFS IEEE Transactions on Fuzzy Systems IEEE】【journals/tfs】
+【12】【TNNLS IEEE Transactions on Neural Networks and learning systems IEEE】【journals/tnn】
+【13】【IJAR International Journal of Approximate Reasoning Elsevier】【journals/ijar】
+【14】【JAIR Journal of AI Research AAAI】【journals/jair】
+【15】【Journal of Automated Reasoning Springer】【journals/jar】
+【16】【JSLHR Journal of Speech, Language, and Hearing Research American Speech-Language Hearing Association】【http://jslhr.pubs.asha.org/】
+【17】【Machine Learning Springer】【journals/ml】
+【18】【Neural Computation MIT Press】【journals/neco】
+【19】【Neural Networks Elsevier】【journals/nn】
+【20】【Pattern Recognition Elsevier】【conf/par】
+【21】【AAMAS Autonomous Agents and Multi-Agent Systems Springer】【journals/aamas】
+
+###
+
+C
+【1】【TALIP ACM Transactions on Asian Language Information Processing ACM】【journals/talip】
+【2】【Applied Intelligence Springer】【journals/apin】
+【3】【AIM Artificial Intelligence in Medicine Elsevier】【journals/artmed】
+【4】【Artificial Life MIT Press】【journals/alife】
+【6】【Computational Intelligence Wiley】【journals/ci】
+【7】【Computer Speech and Language Elsevier】【journals/csl】
+【8】【Connection Science Taylor & Francis】【journals/connection】
+【9】【DSS Decision Support Systems Elsevier】【journals/dss】
+【10】【EAAI Engineering Applications of Artificial Intelligence Elsevier】【journals/eaai】
+【11】【Expert Systems Blackwell/Wiley】【journals/es】
+【12】【ESWA Expert Systems with Applications Elsevier】【journals/eswa】
+【13】【Fuzzy Sets and Systems Elsevier】【journals/fss】
+【14】【T-CIAIG IEEE Transactions on Computational Intelligence and AI in Games IEEE】【journals/tciaig】
+【15】【IET-CVI IET Computer Vision IET http://digital-library.theiet.org/content/journals/iet-cvi 16 IET Signal Processing IET * http://digital-library.theiet.org/content/journals/iet-spr 17 IVC Image and Vision Computing Elsevier】【journals/ivc】
+【18】【IDA Intelligent Data Analysis Elsevier】【journals/ida】
+【19】【IJCIA International Journal of Computational Intelligence and Applications World Scientific】【journals/ijcia】
+【20】【IJDAR International Journal on Document Analysis and Recognition Springer】【journals/ijdar】
+【21】【IJIS International Journal of Intelligent Systems Wiley】【journals/ijis】
+【22】【IJNS International Journal of Neural Systems World Scientific】【journals/ijns】
+【23】【IJPRAI International Journal of Pattern Recognition and Artificial Intelligence World Scientific】【journals/ijprai】
+【24】【International Journal of Uncertainty, Fuzziness and KBS World Scientific】【journals/ijcia】
+【25】【JETAI Journal of Experimental and Theoretical Artificial Intelligence Taylor & Francis】【journals/jetai】
+【26】【KBS Knowledge-Based Systems Elsevier】【journals/kbs】
+【27】【Machine Translation Springer】【journals/mt】
+【28】【Machine Vision and Applications Springer】【journals/mva】
+【29】【Natural Computing Springer】【journals/nc】
+【30】【NLE Natural Language Engineering Cambridge University】【journals/nle】
+【31】【NCA Neural Computing & Applications Springer】【journals/nca】
+【32】【NPL Neural Processing Letters Springer】【journals/npl】
+【33】【Neurocomputing Elsevier】【journals/ijon】
+【34】【PAA Pattern Analysis and Applications Springer】【journals/paa】
+【35】【PRL Pattern Recognition Letters Elsevier】【journals/prl】
+【36】【Soft Computing Springer】【journals/soco】
+【37】【WIAS Web Intelligence and Agent Systems IOS Press】【journals/wias】
+
+###
+
+A
+【1】【AAAI AAAI Conference on Artificial Intelligence AAAI】【conf/aaai】
+【2】【CVPR IEEE Conference on Computer Vision and Pattern Recognition IEEE】【conf/cvpr】
+【3】【ICCV International Conference on Computer Vision IEEE】【conf/iccv】
+【4】【ICML International Conference on Machine Learning ACM】【conf/icml】
+【5】【IJCAI International Joint Conference on Artificial Intelligence Morgan Kaufmann】【conf/ijcai】
+【6】【NIPS Annual Conference on Neural Information Processing Systems MIT Press】【conf/nips】
+【7】【ACL Annual Meeting of the Association for Computational Linguistics ACL】【conf/acl】
+
+###
+
+B
+【1】【COLT Annual Conference on Computational Learning Theory Springer】【conf/colt】
+【2】【EMNLP Conference on Empirical Methods in Natural Language Processing ACL】【conf/emnlp】
+【3】【ECAI European Conference on Artificial Intelligence IOS Press】【conf/ecai】
+【4】【ECCV European Conference on Computer Vision Springer】【conf/eccv】
+【5】【ICRA IEEE International Conference on Robotics and Automation IEEE】【conf/icra】
+【6】【ICAPS International Conference on Automated Planning and Scheduling AAAI】【conf/aips】
+【7】【ICCBR International Conference on Case-Based Reasoning Springer】【conf/iccbr】
+【8】【COLING International Conference on Computational Linguistics ACM】【conf/coling】
+【9】【KR International Conference on Principles of Knowledge Representation and Reasoning Morgan Kaufmann】【conf/kr】
+【10】【UAI International Conference on Uncertainty in Artificial Intelligence AUAI】【conf/uai】
+【11】【AAMAS International Joint Conference on Autonomous Agents and Multi-agent Systems Springer】【conf/atal】
+【12】【PPSN Parallel Problem Solving from Nature Springer】【conf/ppsn】
+
+###
+
+C
+【1】【ACCV Asian Conference on Computer Vision Springer】【conf/accv】
+【2】【CoNLL Conference on Natural Language Learning CoNLL http://dblp.uni-trier.de/db/conf/conll 3 GECCO Genetic and Evolutionary Computation Conference ACM】【conf/gecco】
+【4】【ICTAI IEEE International Conference on Tools with Artificial Intelligence IEEE】【conf/ictai】
+【5】【ALT International Conference on Algorithmic Learning Theory Springer】【conf/alt】
+【6】【ICANN International Conference on Artificial Neural Networks Springer】【conf/icann】
+【7】【FGR International Conference on Automatic Face and Gesture Recognition IEEE】【conf/fgr】
+【8】【ICDAR International Conference on Document Analysis and Recognition IEEE】【conf/icdar】
+【9】【ILP International Conference on Inductive Logic Programming Springer】【conf/ilp】
+【10】【KSEM International conference on Knowledge Science,Engineering and Management Springer】【conf/ksem】
+【11】【ICONIP International Conference on Neural Information Processing Springer】【conf/iconip】
+【12】【ICPR International Conference on Pattern Recognition IEEE】【conf/icpr】
+【13】【ICB International Joint Conference on Biometrics IEEE】【conf/icb】
+【14】【IJCNN International Joint Conference on Neural Networks IEEE】【conf/ijcnn】
+【15】【PRICAI Pacific Rim International Conference on Artificial Intelligence Springer】【conf/pricai】
+【16】【NAACL The Annual Conference of the North American Chapter of the Association for Computational Linguistics NAACL】【conf/naacl】
+【17】【BMVC British Machine Vision Conference British Machine Vision Association】【conf/bmvc】
+【18】【IROS IEEE\RSJ International Conference on Intelligent Robots and Systems IEEE】【conf/iros】
+【19】【AISTATS Artificial Intelligence and Statistics JMLR】【conf/aistats】
+【20】【ACML Asian Conf. on Machine Learning JMLR】【conf/acml】
